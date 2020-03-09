@@ -1,2 +1,2 @@
 # fulfillment
-Drupal to fulfillment webhook
+generating response from php and drupal
